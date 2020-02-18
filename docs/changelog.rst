@@ -1,6 +1,17 @@
 Changelog
 =========
 
+0.9
+^^^^^
+* Fix PyFlakes suggestions
+* Fix 2to3 suggestions
+* Fix futurize suggestions
+* Removing url comments
+* Improve .gitignore from github example
+* Make ``django-dajaxice`` work with ``django 2.2``
+* Updating example app to work with ``django 2.2``
+
+
 0.8
 ^^^^^
 * Make ``django-dajaxice`` work with ``django 1.9``
