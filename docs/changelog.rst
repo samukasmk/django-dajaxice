@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.10
+^^^^^
+* Fix encode dict parameters
+
 0.9
 ^^^^^
 * Fix PyFlakes suggestions
